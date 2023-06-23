@@ -1,5 +1,5 @@
 # Hugging Face 🤗 - Medical Imaging models
-Repository for vision model 
+Repository for vision models 
 
 ## SAM (Segment-Anything Model):
 - performing inference with MedSAM: `segment-anything/run-inference-with-medsam.ipynb`
